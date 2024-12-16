@@ -98,6 +98,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or collaboration, feel free to connect:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: ekipyator276@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuel-kipyator)
+- **GitHub**: [Your GitHub Profile](https://github.com/ekky001)
